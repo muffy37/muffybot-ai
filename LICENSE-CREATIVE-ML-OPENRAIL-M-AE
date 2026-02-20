@@ -1,0 +1,101 @@
+CreativeML OpenRAIL-M License – Attribution Enhanced (AE)
+Based on the CreativeML OpenRAIL-M License
+
+Copyright (c) 2026, muffy37
+
+This license is a modified version of the CreativeML OpenRAIL-M License.
+It adds explicit attribution requirements while preserving all original
+use-based restrictions of the OpenRAIL-M framework.
+
+-----------------------------------------------------------------------
+
+This License governs the use, reproduction, modification, and distribution
+of the Machine Learning Model and any Derivatives of the Model.
+
+By using, copying, modifying, or distributing the Model or any Derivatives,
+you agree to be bound by the terms of this License.
+
+-----------------------------------------------------------------------
+
+1. Definitions
+
+a. “Model” means the machine learning model released under this License,
+   including learned weights, parameters, and related artifacts.
+
+b. “Derivatives of the Model” means any model derived from the Model,
+   including via fine-tuning, transfer learning, or reuse of learned
+   representations.
+
+-----------------------------------------------------------------------
+
+2. License Grant
+
+Subject to the terms of this License, the Licensor grants you a worldwide,
+royalty-free, non-exclusive license to use, reproduce, modify, and
+redistribute the Model and Derivatives of the Model.
+
+-----------------------------------------------------------------------
+
+3. Use-Based Restrictions
+
+You must not use the Model or Derivatives of the Model for any purpose that:
+
+a. violates any applicable law or regulation;
+b. infringes upon the rights of others;
+c. causes or is likely to cause harm to individuals or groups;
+d. enables harassment, discrimination, violence, or exploitation,
+   including exploitation of minors;
+e. enables surveillance, profiling, or automated decision-making that
+   significantly impacts individuals without meaningful human oversight.
+
+These restrictions MUST be preserved in all redistributions and derivative
+works without alteration.
+
+-----------------------------------------------------------------------
+
+4. Attribution (Enhanced Requirement)
+
+Any use, distribution, or publication of the Model or Derivatives of the
+Model MUST include clear and visible attribution to the original author.
+
+The attribution MUST:
+
+a. include the name “[TON NOM / PSEUDO]” as the original author;
+b. mention that the Model is based on the original work by the author;
+c. be displayed in a prominent location, such as:
+   - a README file,
+   - model card,
+   - documentation,
+   - user interface,
+   - or public description of the Model.
+
+Attribution MUST NOT be hidden solely in legal files or metadata.
+
+-----------------------------------------------------------------------
+
+5. Redistribution
+
+Redistributions of the Model or Derivatives must:
+
+a. include a copy of this License;
+b. clearly indicate any modifications made;
+c. preserve all attribution and use-based restriction clauses.
+
+-----------------------------------------------------------------------
+
+6. No Warranty
+
+THE MODEL IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+-----------------------------------------------------------------------
+
+7. Termination
+
+Any violation of this License automatically terminates the rights granted
+herein. Upon termination, all use and distribution of the Model must cease.
+
+-----------------------------------------------------------------------
+
+END OF TERMS
