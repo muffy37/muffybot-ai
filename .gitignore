@@ -1,0 +1,57 @@
+# Secrets and local environment
+.env
+.env.*
+*.env
+*.secret
+*.secrets
+user-config.py
+user-password.py
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+*.so
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.venv/
+venv/
+env/
+
+# Local IDE/system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Caches / temporary runtime controls
+apicache/
+throttle.ctrl
+
+# Logs
+*.log
+logs/
+
+# Project runtime data / artifacts
+data/ml_runs/
+data/runtime/
+model/archive/
+model/latest/
+model/data/
+
+# Common export artifacts
+*.parquet
+*.joblib
+*.zip
+
+# Local backups
+*.local_backup_*.md
